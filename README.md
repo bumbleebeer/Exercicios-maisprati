@@ -26,8 +26,6 @@ Clone o projeto
 Entre no diretório do projeto
 
 ```bash
-  cd Exerci1+prati
-
   cd Exercicios-maisprati
 ```
 Escolha o exercício
